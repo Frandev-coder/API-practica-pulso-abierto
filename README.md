@@ -52,19 +52,24 @@ Para comprobar que el cambio no alteró el resultado se deben ejecutar `npm.cmd 
 
 ## Publicación
 
-Repositorio GitHub: **PENDIENTE — pegar la URL real del repositorio**
+GitHub:
+https://github.com/Frandev-coder/API-practica-pulso-abierto
 
-Aplicación en Vercel: **PENDIENTE — pegar la URL pública real después del despliegue**
+Vercel:
+https://api-practica-pulso-abierto.vercel.app
 
-Vercel debe compilar con `npm run build` y publicar la carpeta `dist`, se incluye `vercel.json` para permitir el acceso directo y la recarga de rutas como `/criptomonedas/bitcoin`
 
 ## Verificación final
 
-- Pruebas: **PENDIENTE — anotar el resultado real de `npm.cmd run test`**
-- Build: **PENDIENTE — anotar el resultado real de `npm.cmd run build`**
-- Preview: **PENDIENTE — indicar si se abrió y funcionó**
-- GitHub: **PENDIENTE — comprobar que se subió la versión final**
-- Despliegue Vercel: **PENDIENTE — comprobar la URL pública y el detalle**
-- Fecha: **PENDIENTE — escribir fecha de verificación**
+Las 8 pruebas automatizadas se ejecutaron correctamente
 
-No subir `node_modules`, `dist` ni `.vs` al repositorio, estas carpetas se excluyen mediante `.gitignore`
+El build se generó sin errores
+
+La aplicación fue publicada en Vercel
+
+Comprobé que funcionan los precios, las páginas de detalle,
+el formulario y los favoritos después de actualizar
+
+Preview local: pendiente de comprobar
+
+Fecha de verificación: 24/11/2026
