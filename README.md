@@ -70,6 +70,6 @@ La aplicación fue publicada en Vercel
 Comprobé que funcionan los precios, las páginas de detalle,
 el formulario y los favoritos después de actualizar
 
-Preview local: pendiente de comprobar
+Preview local: comprobado correctamente
 
 Fecha de verificación: 24/11/2026
